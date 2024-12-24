@@ -2,4 +2,4 @@ This repository holds my solutions to Dawn Choo's amazing SQL Advent Calendar - 
 
 Dive in, explore the solutions, and brush up on your SQL expertise! 💪
 
-!(SQL_Advent_2024_Completion.png)
+![](https://github.com/bhushann7/SQLAdvent2024/blob/master/SQL_Advent_2024_Completion.png)
